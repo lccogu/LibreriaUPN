@@ -1,13 +1,10 @@
-
 package Formulario;
-
 
 public class DetalleBoleta extends javax.swing.JInternalFrame {
 
     public DetalleBoleta() {
         initComponents();
     }
-
 
     @SuppressWarnings("unchecked")
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents

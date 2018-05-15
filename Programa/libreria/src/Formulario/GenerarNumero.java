@@ -1,6 +1,4 @@
-
 package Formulario;
-
 
 public class GenerarNumero {
     

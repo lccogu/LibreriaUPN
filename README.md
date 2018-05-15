@@ -6,4 +6,5 @@ Universidad privada del norte
 
 Integrantes:
 
+Conde Guarniz Jean Pierre Joseph
 Urbano Amiquero Jhon Richard
